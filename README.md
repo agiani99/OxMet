@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Molecular Hydrogen Analysis App is a computational chemistry tool for analyzing the most energetically favorable hydrogen removal positions in organic molecules. This application helps predict potential sites of oxidative metabolism, which is crucial in drug design and metabolic pathway analysis.
+The Molecular Hydrogen Analysis App is a computational chemistry tool for analyzing the most energetically favorable hydrogen removal positions in organic molecules. This application helps predict potential sites of oxidative metabolism, which is crucial in drug design and metabolic pathway analysis. it a beta version as it lacks a correction for water accessibility of the hydrogen which I would like to add asap. A Pareto best between maximal water accessibility AND minimal energy delta between ground state and radical state should do the magic. At the moment only small molecules provide reliable predictions only with energy contributions. 
 
 ## Features
 
