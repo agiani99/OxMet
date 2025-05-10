@@ -42,7 +42,7 @@ pip install streamlit rdkit pandas matplotlib numpy
 Run the application with:
 
 ```bash
-streamlit run hydrogen_analyzer.py
+streamlit run hydrogen_analyzer_app.py
 ```
 
 Then open your browser to the displayed URL (typically http://localhost:8501).
