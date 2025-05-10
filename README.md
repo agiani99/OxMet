@@ -1,6 +1,6 @@
 # Molecular Hydrogen Analysis App
 
-![App Screenshot](https://github.com/agiani99/OxMet/screenshot.png)
+![App Screenshot](https://github.com/agiani99/OxMet/blob/main/screenshot.png)
 
 ## Overview
 
